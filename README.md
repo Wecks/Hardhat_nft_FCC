@@ -13,4 +13,4 @@
 
 
 ## Credits and Author
-Project realized by Wecks following this FreeCodeCamp YT (video)[https://www.youtube.com/watch?v=gyMwXuJrbJQ]
+Project realized by Wecks following this FreeCodeCamp YT [video](https://www.youtube.com/watch?v=gyMwXuJrbJQ)
